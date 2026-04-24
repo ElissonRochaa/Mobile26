@@ -28,8 +28,8 @@ class MyApp extends StatelessWidget {
               borderRadius: BorderRadius.only(
                 topRight: Radius.circular(30),
                 bottomLeft: Radius.circular(30)
-          
-              )
+              ),
+              
             ),
             child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
