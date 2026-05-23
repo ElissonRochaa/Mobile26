@@ -15,7 +15,8 @@ class LinhaCategoria extends StatelessWidget {
                 height: 2,
                 color: Colors.black,
               ),
-              Text(nomeCategoria),
+              Text(nomeCategoria,
+              style: TextStyle(fontSize: 20),),
               Container(
                 width: MediaQuery.of(context).size.width*0.5,
                 height: 2,

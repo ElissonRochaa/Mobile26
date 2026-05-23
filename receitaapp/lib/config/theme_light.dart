@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class ThemeLight {
   static final ThemeData theme = ThemeData(
-    textTheme: GoogleFonts.montserratTextTheme(),
+    textTheme: GoogleFonts.homenajeTextTheme(),
     colorScheme: ColorScheme(
       brightness: Brightness.light,
       primary: Color(0xFFE47034),
